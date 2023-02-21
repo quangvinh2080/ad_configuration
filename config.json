@@ -1,4 +1,5 @@
 {
+	"enable": false,
 	"tapToShowAds": 6,
 	"secondsToShowAds": 45,
 	"enableRewardPressRestart": true
